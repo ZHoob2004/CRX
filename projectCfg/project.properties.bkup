@@ -1,0 +1,24 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Sat Oct 21 16:11:41 MST 2017
+#Sat Oct 21 16:11:41 MST 2017
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+Triggers.ActiveTriggers=
+commPort=COM1
+CommSettingverrineCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingverrineCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+canId=0
+CommSettingverrineCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM0
+dashBoardFile=/dashboard//dashboard.dash
+ecuConfigFile=mainController.ini
+baudRate=115200
+projectDescription=
+selectedComDriver=Multi Interface MegaSquirt Driver
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM0
+CommSettingverrineCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+projectName=CRX
+CommSettingBaud\ Rate=115200
+CommSettingCom\ Port=COM1
+ecuSettings=FAHRENHEIT|tuneByMAF_OFF|

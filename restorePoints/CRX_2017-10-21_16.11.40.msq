@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+    <bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Sat Oct 21 16:11:40 MST 2017"/>
+    <versionInfo fileFormat="5.0" firmwareInfo="" nPages="1" signature="MShift v0.02"/>
+    <page>
+        <pcVariable name="tsCanId">"0"</pcVariable>
+    </page>
+    <page number="0" size="16376"/>
+    <settings Comment="These setting are only used if this msq is opened without a project.">
+        <setting name="tuneByMAF_OFF" value="tuneByMAF_OFF"/>
+        <setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+    </settings>
+    <userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>
