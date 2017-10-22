@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-    <bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Sun Oct 22 14:37:06 MST 2017"/>
+    <bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Sun Oct 22 14:23:26 MST 2017"/>
     <versionInfo fileFormat="5.0" firmwareInfo="rusEFI+v20171016%4014703" nPages="1" signature="MShift v0.02"/>
     <page>
         <pcVariable name="tsCanId">"0"</pcVariable>
@@ -166,7 +166,7 @@
         <constant digits="0" name="ignitionOffset" units="RPM">0.0</constant>
         <constant name="timingMode">"dynamic"</constant>
         <constant digits="0" name="fixedModeTiming" units="RPM">50.0</constant>
-        <constant digits="0" name="globalTriggerAngleOffset" units="deg">10.0</constant>
+        <constant digits="0" name="globalTriggerAngleOffset" units="deg">90.0</constant>
         <constant digits="2" name="analogInputDividerCoefficient" units="coef">2.0</constant>
         <constant digits="2" name="vbattDividerCoeff" units="coef">9.0</constant>
         <constant name="vbattAdcChannel">"PC4"</constant>
@@ -188,7 +188,7 @@
         <constant name="trigger_unusedCustomIsSynchronizationNeeded">"false"</constant>
         <constant name="trigger_unusedCustomNeedSecondTriggerInput">"false"</constant>
         <constant name="trigger_useOnlyFirstChannel">"false"</constant>
-        <constant digits="0" name="trigger_customTotalToothCount" units="number">2.0</constant>
+        <constant digits="0" name="trigger_customTotalToothCount" units="number">4.0</constant>
         <constant digits="0" name="trigger_customSkippedToothCount" units="number">0.0</constant>
         <constant digits="4" name="trigger_unusedcustomSyncRatioFrom" units="number">0.0</constant>
         <constant digits="4" name="trigger_unusedcustomSyncRatioTo" units="number">0.0</constant>
@@ -847,22 +847,6 @@
         <constant digits="0" name="auxPid4_period" units="ms">0.0</constant>
         <constant digits="3" name="auxPid4_minValue">0.0</constant>
         <constant digits="3" name="auxPid4_maxValue">0.0</constant>
-        <constant name="fsioFormulas1"/>
-        <constant name="fsioFormulas2"/>
-        <constant name="fsioFormulas3"/>
-        <constant name="fsioFormulas4"/>
-        <constant name="fsioFormulas5"/>
-        <constant name="fsioFormulas6"/>
-        <constant name="fsioFormulas7"/>
-        <constant name="fsioFormulas8"/>
-        <constant name="fsioFormulas9"/>
-        <constant name="fsioFormulas10"/>
-        <constant name="fsioFormulas11"/>
-        <constant name="fsioFormulas12"/>
-        <constant name="fsioFormulas13"/>
-        <constant name="fsioFormulas14"/>
-        <constant name="fsioFormulas15"/>
-        <constant name="fsioFormulas16"/>
         <constant name="timingMultiplier">1</constant>
         <constant name="timingAdditive">0</constant>
         <constant cols="1" digits="2" name="cltFuelCorrBins" rows="16" units="C">

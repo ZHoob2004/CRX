@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-    <bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="" writeDate="Sun Oct 22 14:37:06 MST 2017"/>
+    <bibliography author="TunerStudio MS 3.0.28 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Sun Oct 22 14:37:06 MST 2017"/>
     <versionInfo fileFormat="5.0" firmwareInfo="rusEFI+v20171016%4014703" nPages="1" signature="MShift v0.02"/>
     <page>
         <pcVariable name="tsCanId">"0"</pcVariable>
